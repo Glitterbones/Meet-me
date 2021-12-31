@@ -52,16 +52,48 @@ margin:0;
  }
 
 #about-me img {
-    width: 200px ;
+    width: 250px ;
     height: 250px;
  float:left;
 
 } 
-#my-projects {
+#My-projects {
 background-color: #e0b0ff;
 border-style: solid;
 border-color: whitesmoke; 
+background-position: center;
+overflow: auto; 
+height: 300px; 
+}
 
-
- }
-
+#My-projects img { 
+ width: 250px; 
+ height: 250px; 
+ float:left;
+}
+#resume {
+    background-color: #e0b0ff;
+border-style: solid;
+border-color: whitesmoke; 
+background-position: center;
+overflow: auto; 
+height: 300px; 
+}
+#resume img { 
+    width:250px;
+    height: 250px; 
+    float: left; 
+}
+#contact-me { 
+    background-color: #e0b0ff;
+    border-style: solid;
+    border-color: whitesmoke; 
+    background-position: center;
+    overflow: auto; 
+    height: 300px; 
+}
+#contact-me img { 
+    width: 250px; 
+    height: 250px;
+    float:left;
+}
