@@ -1,0 +1,39 @@
+*{ 
+        margin: 0;
+        padding: 0;
+       background-color: black;
+}
+
+header {
+    padding: 30px 35px; 
+}
+
+    header h1 { 
+        font-weight: bold;
+        font-size: 36px;
+        color:purple;
+        margin:0;
+        font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+
+    }
+
+    header nav {
+      float: right;
+    margin: 7px 0;
+    position: center;
+}
+
+
+    header nav ul li {
+        display:inline;
+    }
+    header nav ul li a {
+        margin: 0 30px;
+        font-weight: lighter;
+        font-size: 22px;
+    }
+img { 
+height: 350px;
+width: 300px ; 
+}
+
